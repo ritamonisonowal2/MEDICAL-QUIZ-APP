@@ -39,11 +39,11 @@ function TeacherDashboard() {
             <p className="text-[10px] font-black text-blue-200 uppercase tracking-widest">Support Contacts</p>
             <div className="bg-blue-800 p-4 rounded-2xl border border-blue-500">
               <p className="text-[9px] font-black uppercase text-blue-300">Academic Mentor</p>
-              <p className="text-base font-black">+91 XXXXX XXXXX</p>
+              <p className="text-base font-black">+91 93159 89571</p>
             </div>
             <div className="bg-green-600/30 p-4 rounded-2xl border border-green-500/30">
               <p className="text-[9px] font-black uppercase text-green-300">Tech Support</p>
-              <p className="text-base font-black text-green-100">+91 YYYYY YYYYY</p>
+              <p className="text-base font-black text-green-100">+91 81350 48881</p>
             </div>
           </div>
           <button className="w-full flex items-center gap-3 p-4 bg-blue-800/80 rounded-2xl font-bold text-sm italic border-l-4 border-white"><Radio size={20}/> Live Stream</button>
